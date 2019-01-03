@@ -3,7 +3,7 @@ Raspberry PI Python app
 
 Grandbaby's first PI - Music Box
 
-Simple Python3 script developed for Version 2 of a Raspberry Pi music box project @ http://ventures.tpedersen.net/errata/raspberrypi/cutiepi.  Simply plays a series of sounds (wav files) and flashes LEDs when button is pressed.  Sound files are hardcoded, I swap in/out sounds for different occasions - e.g. Christmas sounds, current favoirtie creature - like Elmo, etc.  Used a large button and LED light bar to attract/hold baby's attention.  Script also runs in harmony with Shairport-Sync ... waits until shairport is done playing before playing one its sounds.
+Simple Python3 script developed for Version 2 of a Raspberry Pi music box project @ http://ventures.tpedersen.net/errata/raspberrypi/cutiepi.  Simply plays a series of sounds (wav files) and flashes LEDs when button is pressed.  Sound files are hardcoded, swaped in/out for different occasions - e.g. Christmas sounds, current favortie creature - like Elmo.  Used a large button and LED light bar to attract/hold baby's attention.  Script also runs in harmony with Shairport-Sync ... waits until shairport is done playing before playing one its sounds.
 
 Default GPIO assigments/usage:
 Red LED @ GPIO 17 
