@@ -11,8 +11,7 @@ Green LED @ GPIO 27
 Blue LED @ GPIO 4
 Button @ GPIO 2
 
-Sound files must be in /home/pi/cutiepi/cutiesounds to facilitate running the script as a service.
-Cycles thru playing sound1.wav, sound2.wav, sound3.wav and song.wav each time button is pressed.  LEDs blink while sound is playing.
+Sound files must be in /home/pi/cutiepi/cutiesounds to facilitate running the script as a service - edits required if you move stuff around - will play with alternatives to absolute names in future.  CutiePi Cycles thru playing sound1.wav, sound2.wav, sound3.wav and song.wav each time button is pressed.  LEDs blink while sound is playing.
 
 Run time arguments
 debug - displays a bunch of stuff
